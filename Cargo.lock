@@ -2003,6 +2003,8 @@ version = "0.1.0"
 dependencies = [
  "glam",
  "pollster",
+ "serde",
+ "thiserror 2.0.16",
  "wgpu",
  "winit",
 ]
